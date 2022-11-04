@@ -1,3 +1,3 @@
 # Avishkar
 
-contains all the files rlated to the project of avishkar
+contains all the files related to the project of avishkar
